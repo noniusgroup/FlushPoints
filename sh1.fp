@@ -54,3 +54,10 @@ x = 29.0204
 y = -80.1829
 course = 289.95
 
+[missing]
+pointID = 0
+time = Mon Aug 29 17:44:43 2011
+x = 29.0064
+y = -80.1852
+course = 289.97
+
