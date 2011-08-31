@@ -144,3 +144,10 @@ y = -80.1884
 course = 289.998
 
 >>>>>>> de3a194fff97abb9fd2f1b18d6bb1c3a49df5d75
+[hit9]
+pointID = 4
+time = Wed Aug 31 15:52:37 2011
+x = 28.9843
+y = -80.2063
+course = 290.154
+
