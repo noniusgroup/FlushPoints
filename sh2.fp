@@ -1,21 +1,84 @@
-[hit0]
-pointID = 2
-time = 1313752332
-x = 10.2 
-y = -86.35
-course = 12.0
+[missing]
+pointID = 4
+time = Wed Aug 31 16:57:08 2011
+x = 29.4405
+y = -77.797
+course = 270.021
 
-<<<<<<< HEAD
-[missing0]
-time = 1313762333
-lat = 59.50.00044
-lon = 30.20.61861
-=======
-[hit3]
+[missing]
 pointID = 5
-time = Wed Aug 31 15:55:57 2011
-x = 29.4159
-y = -77.7769
-course = 269.857
+time = Wed Aug 31 17:00:21 2011
+x = 29.4149
+y = -77.7972
+course = 270.023
 
->>>>>>> 8346c89c4f08f4231bf8ac736606ad623172ee05
+[hit0]
+pointID = 5
+time = Wed Aug 31 17:02:38 2011
+x = 29.4141
+y = -77.7903
+course = 269.966
+
+[hit1]
+pointID = 5
+time = Wed Aug 31 17:02:58 2011
+x = 29.4157
+y = -77.7993
+course = 270.04
+
+[missing]
+pointID = 5
+time = Wed Aug 31 17:08:54 2011
+x = 29.4461
+y = -62.797
+course = 270.021
+
+[missing]
+pointID = 5
+time = Wed Aug 31 17:09:25 2011
+x = 44.4405
+y = -77.8026
+course = 270.021
+
+[missing]
+pointID = 0
+time = Wed Aug 31 17:09:38 2011
+x = 14.4405
+y = -77.7915
+course = 270.021
+
+[missing]
+pointID = 0
+time = Wed Aug 31 17:10:11 2011
+x = 14.4149
+y = -77.8006
+course = 270.023
+
+[hit2]
+pointID = 6
+time = Wed Aug 31 17:10:54 2011
+x = 14.4405
+y = -77.7915
+course = 270.021
+
+[hit3]
+pointID = 6
+time = Wed Aug 31 17:11:36 2011
+x = 14.4405
+y = -77.7915
+course = 270.021
+
+[hit4]
+pointID = 6
+time = Wed Aug 31 17:33:40 2011
+x = 14.4141
+y = -77.7928
+course = 270.012
+
+[hit5]
+pointID = 6
+time = Wed Aug 31 17:40:26 2011
+x = 14.3878
+y = -77.8333
+course = 270.116
+
