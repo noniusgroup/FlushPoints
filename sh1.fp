@@ -352,3 +352,10 @@ y = -2.39417
 course = 290
 
 >>>>>>> bc31362df4e5bceeda9dede89a1ef6ab97fff06d
+[missing30]
+pointID = 1
+time = Thu Sep 01 17:51:20 2011
+x = 6.57781
+y = -2.39426
+course = 290.001
+
