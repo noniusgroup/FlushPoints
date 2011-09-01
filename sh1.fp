@@ -71,3 +71,10 @@ x = 1.45667e+006
 y = 1.69732e+006
 course = 290
 
+[missing]
+pointID = 132
+time = Thu Sep 01 16:14:17 2011
+x = 1.4567e+006
+y = 1.69731e+006
+course = 290
+
