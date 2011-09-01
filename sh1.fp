@@ -43,3 +43,10 @@ course = 290
 
 =======
 >>>>>>> f5428d7673f27f64e0d43646219a9a752c8cc21c
+[missing]
+pointID = 0
+time = Thu Sep 01 14:49:35 2011
+x = 28.9788
+y = -80.1886
+course = 290
+
