@@ -387,3 +387,10 @@ x = 6.57784
 y = -2.39417
 course = 290
 
+[missing35]
+pointID = 132
+time = Fri Sep 02 10:59:57 2011
+x = 1.45667e+006
+y = 1.69727e+006
+course = 290
+
