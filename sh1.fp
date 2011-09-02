@@ -499,3 +499,10 @@ x = 1.45665e+006
 y = 1.69728e+006
 course = 290
 
+[missing51]
+pointID = 1
+time = Fri Sep 02 15:04:36 2011
+x = 6.57784
+y = -2.39417
+course = 290
+
