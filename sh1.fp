@@ -520,3 +520,10 @@ x = 27.592
 y = -67.3886
 course = 290
 
+[missing54]
+pointID = 0
+time = Fri Sep 02 17:05:22 2011
+x = 16.5115
+y = -77.1263
+course = 290
+
