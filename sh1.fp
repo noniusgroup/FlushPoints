@@ -632,3 +632,10 @@ x = 27.592
 y = -67.3886
 course = 290
 
+[missing70]
+pointID = 0
+time = Tue Sep 06 12:25:22 2011
+x = 27.592
+y = -67.3886
+course = 290
+
