@@ -60,3 +60,10 @@ y = -757.044
 course = 154.1
 
 >>>>>>> 9e926e67c40a85dbcacd7d44b0785622d15086a2
+[hit0]
+pointID = 58
+time = Tue Sep 27 15:58:02 2011
+x = 21.6597
+y = 156.164
+course = 93.9
+
