@@ -229,3 +229,10 @@ course = 94.07
 =======
 >>>>>>> 9e926e67c40a85dbcacd7d44b0785622d15086a2
 >>>>>>> f69a2e9a3f508786d665baf3f6b594759cb5c544
+[missing32]
+pointID = 65
+time = Tue Sep 27 18:18:49 2011
+x = 17.9108
+y = 170.33
+course = 95.27
+
