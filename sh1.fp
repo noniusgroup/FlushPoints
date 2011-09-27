@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [missing0]
 pointID = 0
 time = Thu Sep 01 16:34:22 2011
@@ -6,6 +7,15 @@ x = -1.02889e+006
 y = -1.69204e+006
 course = 290
 
+=======
+[missing0]
+pointID = 0
+time = Thu Sep 01 16:34:22 2011
+x = -1.02889e+006
+y = -1.69204e+006
+course = 290
+
+>>>>>>> f69a2e9a3f508786d665baf3f6b594759cb5c544
 =======
 [missing0]
 pointID = 0
