@@ -208,3 +208,17 @@ x = -41.7136
 y = 272.769
 course = 94.13
 
+[missing30]
+pointID = 101
+time = Tue Sep 27 14:43:54 2011
+x = -41.7151
+y = 272.801
+course = 94.06
+
+[missing31]
+pointID = 101
+time = Tue Sep 27 14:43:57 2011
+x = -41.7157
+y = 272.808
+course = 94.07
+
