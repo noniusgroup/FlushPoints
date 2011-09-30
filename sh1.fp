@@ -61,3 +61,38 @@ x = 10.2728
 y = 161.692
 course = 81.9
 
+[missing6]
+pointID = 101
+time = Thu Sep 29 14:03:00 2011
+x = 858.022
+y = 448.942
+course = 44.2
+
+[hit3]
+pointID = 63
+time = Thu Sep 29 16:46:31 2011
+x = 21.0404
+y = 166.114
+course = 91.3
+
+[hit4]
+pointID = 50
+time = Thu Sep 29 19:39:20 2011
+x = 20.8497
+y = 140.786
+course = 84.4
+
+[missing7]
+pointID = 44
+time = Thu Sep 29 19:40:32 2011
+x = 49.9565
+y = 126.256
+course = 87.2
+
+[missing8]
+pointID = 71
+time = Thu Sep 29 19:43:15 2011
+x = 277.106
+y = 178.526
+course = 68.2
+
