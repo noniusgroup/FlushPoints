@@ -131,3 +131,31 @@ x = 2025.97
 y = -3230.99
 course = 136.7
 
+[missing13]
+pointID = 0
+time = Fri Sep 30 13:40:51 2011
+x = 2025.97
+y = -3230.99
+course = 136.7
+
+[missing14]
+pointID = 0
+time = Fri Sep 30 13:46:04 2011
+x = 1979.73
+y = -2601.43
+course = 342.5
+
+[missing15]
+pointID = 0
+time = Fri Sep 30 13:57:07 2011
+x = 2334.79
+y = -733.941
+course = 1.5
+
+[missing16]
+pointID = 40
+time = Fri Sep 30 15:24:29 2011
+x = 22.239
+y = 119.957
+course = 67.2
+
