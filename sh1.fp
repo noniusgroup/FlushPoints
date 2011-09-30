@@ -96,3 +96,10 @@ x = 277.106
 y = 178.526
 course = 68.2
 
+[missing9]
+pointID = 0
+time = Fri Sep 30 09:15:19 2011
+x = 2026.37
+y = -3215.77
+course = 54
+
