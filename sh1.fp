@@ -222,3 +222,10 @@ x = 1909.02
 y = 573.32
 course = 128.4
 
+[missing25]
+pointID = 0
+time = Mon Oct 03 19:26:49 2011
+x = 2032.81
+y = -2798.69
+course = 346
+
