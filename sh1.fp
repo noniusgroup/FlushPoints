@@ -166,3 +166,17 @@ x = 228.835
 y = 181.884
 course = 76.7
 
+[hit6]
+pointID = 78
+time = Fri Sep 30 18:48:22 2011
+x = 12.2761
+y = 195.202
+course = 81.2
+
+[missing18]
+pointID = 82
+time = Fri Sep 30 18:51:14 2011
+x = -80.543
+y = 205.619
+course = 104.7
+
