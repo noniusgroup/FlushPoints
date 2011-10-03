@@ -180,3 +180,10 @@ x = -80.543
 y = 205.619
 course = 104.7
 
+[missing19]
+pointID = 0
+time = Mon Oct 03 14:50:50 2011
+x = 2026.52
+y = -3233.25
+course = 137
+
