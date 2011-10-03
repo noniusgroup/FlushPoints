@@ -250,3 +250,10 @@ x = 0
 y = 0
 course = 0
 
+[missing30]
+pointID = 68
+time = Mon Oct 03 19:35:35 2011
+x = 12.8663
+y = 176.358
+course = 86.14
+
