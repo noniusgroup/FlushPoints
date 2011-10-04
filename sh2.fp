@@ -236,3 +236,38 @@ x = 11.0309
 y = 173.057
 course = 86.92
 
+[missing30]
+pointID = 0
+time = Mon Oct 03 18:42:06 2011
+x = 0
+y = 0
+course = 0
+
+[missing31]
+pointID = 0
+time = Mon Oct 03 18:42:12 2011
+x = 0
+y = 0
+course = 0
+
+[missing30]
+pointID = 68
+time = Mon Oct 03 19:35:35 2011
+x = 12.8663
+y = 176.358
+course = 86.14
+
+[missing32]
+pointID = 74
+time = Mon Oct 03 19:37:35 2011
+x = 65.1042
+y = 187.819
+course = 86.15
+
+[missing33]
+pointID = 101
+time = Mon Oct 03 19:48:33 2011
+x = 878.365
+y = 501.741
+course = 58.63
+
