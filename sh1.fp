@@ -320,3 +320,17 @@ x = 3622.3
 y = -4960.95
 course = 122.7
 
+[missing37]
+pointID = 0
+time = Wed Oct 05 20:25:32 2011
+x = 3622.27
+y = -4961.01
+course = 122.6
+
+[missing38]
+pointID = 0
+time = Wed Oct 05 20:25:37 2011
+x = 3622.26
+y = -4960.99
+course = 122.5
+
