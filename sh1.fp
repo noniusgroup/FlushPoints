@@ -278,3 +278,150 @@ x = 2026.67
 y = -3233.09
 course = 140
 
+[missing31]
+pointID = 0
+time = Wed Oct 05 19:51:45 2011
+x = 3622.34
+y = -4960.73
+course = 122
+
+[missing32]
+pointID = 0
+time = Wed Oct 05 20:19:25 2011
+x = 3622.8
+y = -4960.87
+course = 122.2
+
+[missing33]
+pointID = 0
+time = Wed Oct 05 20:24:34 2011
+x = 3622.3
+y = -4960.71
+course = 123
+
+[missing34]
+pointID = 0
+time = Wed Oct 05 20:25:21 2011
+x = 3622.29
+y = -4960.98
+course = 123.2
+
+[missing35]
+pointID = 0
+time = Wed Oct 05 20:25:28 2011
+x = 3622.3
+y = -4960.97
+course = 122.9
+
+[missing36]
+pointID = 0
+time = Wed Oct 05 20:25:30 2011
+x = 3622.3
+y = -4960.95
+course = 122.7
+
+[missing37]
+pointID = 0
+time = Wed Oct 05 20:25:32 2011
+x = 3622.27
+y = -4961.01
+course = 122.6
+
+[missing38]
+pointID = 0
+time = Wed Oct 05 20:25:37 2011
+x = 3622.26
+y = -4960.99
+course = 122.5
+
+[missing39]
+pointID = 0
+time = Wed Oct 05 20:25:48 2011
+x = 3622.27
+y = -4960.99
+course = 122.6
+
+[missing40]
+pointID = 0
+time = Thu Oct 06 10:35:44 2011
+x = 3622.68
+y = -4960.77
+course = 122.2
+
+[missing41]
+pointID = 0
+time = Thu Oct 06 10:50:21 2011
+x = 3622.12
+y = -4960.66
+course = 122.7
+
+[missing42]
+pointID = 0
+time = Thu Oct 06 15:05:52 2011
+x = 3622.15
+y = -4961.24
+course = 122.3
+
+[missing43]
+pointID = 0
+time = Thu Oct 06 16:41:04 2011
+x = 3622.28
+y = -4960.9
+course = 120.6
+
+[missing44]
+pointID = 0
+time = Thu Oct 06 16:41:09 2011
+x = 3622.3
+y = -4960.89
+course = 120.7
+
+[missing45]
+pointID = 0
+time = Thu Oct 06 16:41:15 2011
+x = 3622.31
+y = -4960.88
+course = 120.8
+
+[missing46]
+pointID = 0
+time = Fri Oct 07 11:06:31 2011
+x = 3622.24
+y = -4960
+course = 121.8
+
+[missing47]
+pointID = 0
+time = Fri Oct 07 12:32:05 2011
+x = 3622.29
+y = -4961.22
+course = 122.6
+
+[missing48]
+pointID = 0
+time = Fri Oct 07 14:18:07 2011
+x = 3622.15
+y = -4961.26
+course = 122.3
+
+[missing49]
+pointID = 0
+time = Fri Oct 07 14:42:12 2011
+x = 3621.93
+y = -4961.12
+course = 123.3
+
+[missing50]
+pointID = 0
+time = Fri Oct 07 21:44:59 2011
+x = 3622.22
+y = -4960.36
+course = 121
+
+[missing51]
+pointID = 0
+time = Tue Oct 11 09:24:32 2011
+x = 3621.96
+y = -4960.15
+course = 122.4
+
