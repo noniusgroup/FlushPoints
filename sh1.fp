@@ -425,3 +425,45 @@ x = 3621.96
 y = -4960.15
 course = 122.4
 
+[missing52]
+pointID = 0
+time = Tue Oct 11 13:00:24 2011
+x = 3624.94
+y = -4953.91
+course = 118.8
+
+[missing53]
+pointID = 0
+time = Tue Oct 11 19:02:36 2011
+x = 3624.34
+y = -4961.98
+course = 122.3
+
+[missing54]
+pointID = 0
+time = Tue Oct 11 21:36:50 2011
+x = 3624.17
+y = -4962.14
+course = 120.1
+
+[missing55]
+pointID = 0
+time = Wed Oct 12 10:01:23 2011
+x = 3623.87
+y = -4962.2
+course = 121.2
+
+[missing56]
+pointID = 0
+time = Wed Oct 12 10:12:26 2011
+x = 3623.79
+y = -4961.14
+course = 120.8
+
+[missing57]
+pointID = 0
+time = Wed Oct 12 11:15:06 2011
+x = 3624.09
+y = -4961.3
+course = 121.5
+
