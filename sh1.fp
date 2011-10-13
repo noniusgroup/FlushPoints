@@ -558,3 +558,10 @@ x = 23903.6
 y = -19288.8
 course = 10.5
 
+[missing70]
+pointID = 0
+time = Fri Oct 14 00:31:26 2011
+x = 23910.6
+y = -19269.3
+course = 10
+
