@@ -467,3 +467,108 @@ x = 3624.09
 y = -4961.3
 course = 121.5
 
+[hit9]
+pointID = 77
+time = Wed Oct 12 16:50:28 2011
+x = 12.4491
+y = 193.92
+course = 73.9
+
+[missing58]
+pointID = 79
+time = Wed Oct 12 16:50:46 2011
+x = 14.1535
+y = 196.373
+course = 69.8
+
+[missing59]
+pointID = 84
+time = Wed Oct 12 16:55:03 2011
+x = 251.788
+y = 249.358
+course = 72
+
+[missing60]
+pointID = 0
+time = Wed Oct 12 17:56:56 2011
+x = 2016.71
+y = -3204.95
+course = 140.8
+
+[missing61]
+pointID = 0
+time = Thu Oct 13 12:37:56 2011
+x = 7642.24
+y = -11536.5
+course = 124.4
+
+[missing62]
+pointID = 0
+time = Thu Oct 13 12:49:02 2011
+x = 8373.42
+y = -12034.4
+course = 125.9
+
+[missing63]
+pointID = 0
+time = Thu Oct 13 13:36:45 2011
+x = 8996.27
+y = -12596.1
+course = 125.7
+
+[missing64]
+pointID = 0
+time = Thu Oct 13 13:36:52 2011
+x = 11191.2
+y = -13152.9
+course = 175.9
+
+[missing65]
+pointID = 0
+time = Thu Oct 13 14:10:02 2011
+x = 12631.4
+y = -14827.2
+course = 129.5
+
+[missing66]
+pointID = 0
+time = Thu Oct 13 14:59:05 2011
+x = 12656.5
+y = -14846.6
+course = 129.1
+
+[missing67]
+pointID = 0
+time = Thu Oct 13 14:59:11 2011
+x = 15461.8
+y = -17513.6
+course = 110.3
+
+[missing68]
+pointID = 0
+time = Thu Oct 13 17:36:37 2011
+x = 15492.2
+y = -17530.8
+course = 107.7
+
+[missing69]
+pointID = 0
+time = Thu Oct 13 17:36:44 2011
+x = 23903.6
+y = -19288.8
+course = 10.5
+
+[missing70]
+pointID = 0
+time = Fri Oct 14 00:31:26 2011
+x = 23910.6
+y = -19269.3
+course = 10
+
+[missing71]
+pointID = 74
+time = Fri Oct 14 00:31:34 2011
+x = 38382.9
+y = -674.324
+course = 152.2
+
