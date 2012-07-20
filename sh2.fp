@@ -2490,3 +2490,10 @@ x = 0
 y = 0
 course = 0
 
+[missing350]
+pointID = 0
+time = Fri Jul 20 21:03:19 2012
+x = 0
+y = 0
+course = 0
+
