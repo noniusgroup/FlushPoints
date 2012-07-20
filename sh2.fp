@@ -1923,3 +1923,17 @@ x = 0
 y = 0
 course = 0
 
+[missing269]
+pointID = 0
+time = Fri Jul 20 20:46:19 2012
+x = 0
+y = 0
+course = 0
+
+[missing270]
+pointID = 0
+time = Fri Jul 20 20:46:24 2012
+x = 0
+y = 0
+course = 0
+
