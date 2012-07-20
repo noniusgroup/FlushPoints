@@ -754,3 +754,10 @@ x = 0
 y = 0
 course = 0
 
+[missing102]
+pointID = 0
+time = Fri Jul 20 20:09:04 2012
+x = 0
+y = 0
+course = 0
+
